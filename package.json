@@ -1,0 +1,20 @@
+
+{
+  "name": "get-ip-location-lite",
+  "version": "1.0.0",
+  "description": "Fetches IP address geolocation data using ip-api.com (no API key required)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ip",
+    "geolocation",
+    "location",
+    "country",
+    "city",
+    "ip-lookup"
+  ],
+  "author": "Yunus Emre Buğuş <contem.fe@gmail.com>",
+  "license": "MIT"
+}
